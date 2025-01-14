@@ -5,11 +5,11 @@ This script is a simple not taking tool used for adding notes to a txt file, rea
 
 ### Usage
 The following format should be used for the 3 commands accepted:
-Add a note:
+- Add a note:
 ./note.sh add "YOUR NOTE HERE"
-List all notes:
+- List all notes:
 ./note.sh list
-Search a note:
+- Search a note:
 ./note.sh search "KEYWORD(S)"
 
 ### How It Works
