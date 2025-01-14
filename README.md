@@ -1,4 +1,4 @@
-# Shell Script Note App
+# 🐚 Shell Script Note App 🐚
 
 ### About
 This script is a simple not taking tool used for adding notes to a txt file, reading them, and searching them. It includes the time/date of the note as well.
@@ -14,3 +14,4 @@ The following format should be used for the 3 commands accepted:
 
 ### How It Works
 First checks for the keywords and continues with the one specified, if something else is put in it returns an error. Next it uses eitehr the echo, cat, or grep function depending on which usage is specified.
+Currently there is no way to delete notes from the terminal.
